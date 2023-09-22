@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kimberly127
 - 👀 I’m interested in Python  language 
-- 🌱 I’m currently learning Github and XML 
+- 🌱 I’m currently learning Java, C++ and XML 
 - 💞️ I’m looking to collaborate on a top and best company 
 - 📫 How to reach me: send me an email kimberlynicoleabalahon13@gmail.com
 
